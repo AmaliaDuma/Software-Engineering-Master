@@ -4,7 +4,6 @@
 # de lungimea celuilalt.
 
 # CREARE DE VECTORI
-
 a<-1:10
 b<-c("ana","are","mere")
 
