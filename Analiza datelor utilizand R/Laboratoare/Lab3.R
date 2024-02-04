@@ -71,6 +71,7 @@ fibonacci <- function() {
 }
 fibonacci()
 
+
 # ----- Ex. 5 -----
 #  Analizând datele din setul de date de la ultimul exercițiu de la laboratorul
 #  precedent să se construiască un grafic alegând variabilele și specificând
